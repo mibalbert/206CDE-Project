@@ -1,0 +1,22 @@
+{
+  "name": "botkit-starter-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder-adapter-web": "^1.0.4",
+    "botbuilder-storage-mongodb": "^0.9.5",
+    "botkit": "^4.10.0",
+    "botkit-plugin-cms": "^1.0.2",
+    "dotenv": "^7.0.0",
+    "botbuilder": "^4.13.6",
+    "generator-botkit": "^4.10.0",
+    "request": "^2.88.2",
+    "express": "^4.17.1",
+    "botbuilder-dialogs": "^4.13.6"
+  }
+}
